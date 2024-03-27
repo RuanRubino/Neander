@@ -1,0 +1,109 @@
+v 4
+file . "ula.vhdl" "b69528e67a57af3a9d11fbc3be1c6d4c1214292d" "20230728052124.580":
+  entity ula at 1( 0) + 0 on 93;
+  architecture behavior of ula at 13( 271) + 0 on 94;
+file . "ucmod.vhdl" "91a58851a81bd269fa8ff6e1144c7ea16f3c2c0c" "20230728052124.580":
+  entity moduc at 1( 0) + 0 on 91;
+  architecture dresrossa of moduc at 13( 250) + 0 on 92;
+file . "ucdoors.vhdl" "fd40c79d43d3d57034a61a8b0d737cd7758331fc" "20230728052124.579":
+  entity lda at 1( 0) + 0 on 71;
+  architecture pride of lda at 9( 169) + 0 on 72;
+  entity sta at 41( 967) + 0 on 73;
+  architecture lust of sta at 49( 1134) + 0 on 74;
+  entity nop at 82( 1991) + 0 on 75;
+  architecture envy of nop at 90( 2158) + 0 on 76;
+  entity nott at 122( 2819) + 0 on 77;
+  architecture wrath of nott at 130( 2992) + 0 on 78;
+  entity add at 163( 3675) + 0 on 79;
+  architecture greed of add at 171( 3844) + 0 on 80;
+  entity orr at 204( 4684) + 0 on 81;
+  architecture sloth of orr at 212( 4852) + 0 on 82;
+  entity andd at 245( 5692) + 0 on 83;
+  architecture gluttony of andd at 253( 5863) + 0 on 84;
+  entity jmp at 286( 6707) + 0 on 85;
+  architecture tall of jmp at 294( 6876) + 0 on 86;
+  entity jmpfalse at 326( 7627) + 0 on 87;
+  architecture small of jmpfalse at 334( 7807) + 0 on 88;
+  entity hlt at 366( 8461) + 0 on 89;
+  architecture nada of hlt at 374( 8630) + 0 on 90;
+file . "tb_neander.vhdl" "c703f5942d9b25987a3adffb8ff2dfa339b748e0" "20230728052124.576":
+  entity tb_neander at 1( 0) + 0 on 69;
+  architecture fboss of tb_neander at 7( 78) + 0 on 70;
+file . "tb_NEANDER_01_ULA_MEM.vhdl" "29d1b3ff216defb217bffaca89cbc9c2d0feb99f" "20230728052124.575":
+  entity tb_moduloulamem at 24( 1174) + 0 on 67;
+  architecture quickmath of tb_moduloulamem at 30( 1273) + 0 on 68;
+file . "tb_NEANDER_00-ULA.vhdl" "100b54320150aba7d258993975df0a87d1e08782" "20230728052124.575":
+  entity tb_moduloula at 24( 1105) + 0 on 65;
+  architecture quickmath of tb_moduloula at 30( 1198) + 0 on 66;
+file . "tb_mux5x8.vhdl" "94c21c9b24964b26c75fcd5cc348b769a09d96e7" "20230728052124.574":
+  entity tb_mux5x8 at 1( 0) + 0 on 63;
+  architecture behavior of tb_mux5x8 at 6( 76) + 0 on 64;
+file . "tb_counter.vhdl" "2e03d387f7f1fad5f9f769ae916bdd2656eb988d" "20230728052124.574":
+  entity tb_counter at 1( 0) + 0 on 61;
+  architecture cnt of tb_counter at 7( 78) + 0 on 62;
+file . "tb_as_ram.vhdl" "bfefe731229ad8ce9415f071d736bf321b0ab039" "20230728052124.573":
+  entity tb_as_ram at 1( 0) + 0 on 59;
+  architecture tb_behavior of tb_as_ram at 9( 126) + 0 on 60;
+file . "registradores.vhdl" "243cd25d734329695b8a4436dd94280777a66d98" "20230728052124.573":
+  entity regcarga1bit at 2( 68) + 0 on 53;
+  architecture reg1bit of regcarga1bit at 14( 327) + 0 on 54;
+  entity regcarga2bit at 31( 854) + 0 on 55;
+  architecture reg2bit of regcarga2bit at 42( 1146) + 0 on 56;
+  entity regcarga8bit at 59( 1658) + 0 on 57;
+  architecture reg8bit of regcarga8bit at 70( 1950) + 0 on 58;
+file . "portaslog.vhdl" "643d2fc137f236affe8e107c6c787a3ca7ba300e" "20230728052124.571":
+  entity por at 2( 76) + 0 on 41;
+  architecture comuta of por at 11( 333) + 0 on 42;
+  entity pnot at 21( 562) + 0 on 43;
+  architecture comuta of pnot at 29( 725) + 0 on 44;
+  entity pand at 37( 944) + 0 on 45;
+  architecture comuta of pand at 46( 1147) + 0 on 46;
+  entity somador at 56( 1382) + 0 on 47;
+  architecture behavior of somador at 66( 1533) + 0 on 48;
+  entity somador8 at 74( 1686) + 0 on 49;
+  architecture behavior of somador8 at 86( 1916) + 0 on 50;
+  entity detect at 111( 2732) + 0 on 51;
+  architecture comuta of detect at 119( 2895) + 0 on 52;
+file . "pc.vhdl" "d418c90673c0d8fa6515269754fc332f6414aea6" "20230728052124.569":
+  entity programcounter at 1( 0) + 0 on 39;
+  architecture behavior of programcounter at 11( 235) + 0 on 40;
+file . "NEANDER.vhdl" "008ba6cd566c4d73915ad59df7723a986cfdb5b7" "20230728052124.568":
+  entity neander at 1( 0) + 0 on 37;
+  architecture onepiece of neander at 9( 116) + 0 on 38;
+file . "mux5x8.vhdl" "3ead2f8f706de28863d33d09d4a496bb37a35d3b" "20230728052124.568":
+  entity mux5x8 at 1( 0) + 0 on 35;
+  architecture comuta of mux5x8 at 15( 425) + 0 on 36;
+file . "modulomemoria.vhdl" "1e2e0c5eea9dd4f5796f80c403b67fa430733af0" "20230728052124.567":
+  entity modulomem at 1( 0) + 0 on 33;
+  architecture lione of modulomem at 15( 489) + 0 on 34;
+file . "modula.vhdl" "c7ee8ecba4d8f47deff6213f742f65bf5cb10435" "20230728052124.566":
+  entity modula at 1( 0) + 0 on 31;
+  architecture arcula of modula at 13( 317) + 0 on 32;
+file . "modctrl.vhdl" "0d286570d4aefe3938e0026821c5706fdfe96458" "20230728052124.565":
+  entity modctrl at 1( 0) + 0 on 29;
+  architecture control of modctrl at 11( 243) + 0 on 30;
+file . "jn_and_jz.vhdl" "72a9ebbdad61d0c6a2041e87b4ee3a4e83547a32" "20230728052124.564":
+  entity jx at 1( 0) + 0 on 27;
+  architecture pulo of jx at 10( 182) + 0 on 28;
+file . "flags.vhdl" "976da19e72187e12c307f7b2d79adcea1da16c91" "20230728052124.563":
+  entity flags at 1( 0) + 0 on 25;
+  architecture armazenar of flags at 13( 237) + 0 on 26;
+file . "ffjkd.vhdl" "d4b412e6b4e0db48c84417e421e401565e2bf8dd" "20230728052124.562":
+  entity ffjk at 2( 70) + 0 on 19;
+  architecture latch of ffjk at 14( 316) + 0 on 20;
+  entity ffd at 72( 2349) + 0 on 21;
+  architecture latch of ffd at 84( 2594) + 0 on 22;
+  entity fft at 107( 3127) + 0 on 23;
+  architecture latch of fft at 119( 3372) + 0 on 24;
+file . "decode.vhdl" "85f844e020066fbb3a0a0994d74ac7da24574820" "20230728052124.560":
+  entity decode at 1( 0) + 0 on 17;
+  architecture dec of decode at 21( 400) + 0 on 18;
+file . "ctrldec.vhdl" "f2b43062431ee9cc2a162ccae11fb6076626c90a" "20230728052124.559":
+  entity ctrldec at 1( 0) + 0 on 15;
+  architecture cntr of ctrldec at 10( 166) + 0 on 16;
+file . "counter.vhdl" "2c5c2cb252b2bcd42616a5d4dba17f888c64d6f9" "20230728052124.558":
+  entity counter at 1( 0) + 0 on 13;
+  architecture struct of counter at 13( 196) + 0 on 14;
+file . "as_ram.vhdl" "3f73ba77f28abe495e9836860db5e4964f04d021" "20230728052124.556":
+  entity as_ram at 2( 42) + 0 on 11;
+  architecture behavior of as_ram at 16( 325) + 0 on 12;
